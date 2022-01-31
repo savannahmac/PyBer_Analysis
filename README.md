@@ -14,7 +14,8 @@
 ## Results: 
 - Below you will see the summary data frame created from PyBer's 2019 ride and city data.
 
-![Summary Data Frame](C:\Users\Savannah McIntyre\Desktop\PyBer_Analysis\Resources\summary_data_frame)
+![summary_data_frame](https://user-images.githubusercontent.com/93888037/151730178-6d44861c-f404-4519-b3f6-b543c09feadd.png)
+
 
 - The data frame highlights these facts
 	- Urban cities host 13 times as many rides as rural cities and nearly 3 times as many rides as suburban cities.
@@ -25,7 +26,8 @@
 - Below you will see a line chart depicting the Total Fare by city type.
 - Dips and peaks depicted in the chart show weekly changes. 
 
-![Total Fare by City Type](C:\Users\Savannah McIntyre\Desktop\PyBer_Analysis\Resources\fare_by_city_type_2)
+![fare_by_city_type_2](https://user-images.githubusercontent.com/93888037/151730188-f3ec8896-3239-42cf-877e-b4efb45d526f.png)
+
 
 - This chart highlights these facts
 	- Urban cities are contributing the most to PyBer revenue. 
